@@ -1,0 +1,17 @@
+body {
+	background-color: #000000;
+	color: #ffffff;
+	text-align: center;
+	font-family: "Droid Sans Mono", "Lucida Console", "Courier New", Courier;
+}
+.body_content{
+	max-width:52em;
+	text-align: center;
+	margin: 0 auto;
+}
+a:link{
+	color: #1FA321;
+}
+a:visited{
+	color:#1FA321;
+}
